@@ -1,2 +1,3 @@
 # Resume
-~December 20 version~ 
+
+December 20 version
